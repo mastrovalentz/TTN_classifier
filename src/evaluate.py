@@ -11,8 +11,6 @@ import pandas            as pd
 import datetime
 import json
 
-from tensornetwork.tn_keras.dense import DenseDecomp
-from tensornetwork.tn_keras.mpo   import DenseMPO
 from tensorflow.keras.models      import load_model
 from sklearn.preprocessing        import MinMaxScaler
 from layers.TTN_SingleNode        import TTN_SingleNode
