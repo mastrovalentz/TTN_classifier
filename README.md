@@ -1,4 +1,4 @@
-# Tree Tensor Netowrk Classifiers
+# Tree Tensor Network Classifiers
 
 In this repository we presente the code needed to implement a classifier for High Energy Physics events using a Tree tensor Network architecture.
 
