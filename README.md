@@ -18,3 +18,13 @@ The repository is organized as follows:
 - **references**: this folder contains some of the literature we utilized
 
 For more detailed information please refer to the dedicated README file of each folder.
+
+## Requirements
+
+The packages required to correctly execute the code in this repository are contained in the `requirements.txt` file. 
+
+Instead of directly installing all the required packages we suggest the creation of a dedicated environment using the Anaconda (or pip) package manager, if you already have it installed you can create the environment by running
+
+```
+conda install --name tn-env --file requirements.txt
+```
