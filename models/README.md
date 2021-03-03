@@ -4,8 +4,7 @@ This folder contained the trained architecture of some of the models we presente
 
 The architecture of the model used for the final performance evaluation is stored in the file:
 
-``` FinalModel__nc_2__map_spherical_5__bd_50__bs_10000__ep_500__opt_adam__act_elu__model.hdf5
-```
+``` FinalModel__nc_2__map_spherical_5__bd_50__bs_10000__ep_500__opt_adam__act_elu__model.hdf5 ```
 
 The model naming is done with the following convention:
 - each double underscore separates two model hyperparameters;
