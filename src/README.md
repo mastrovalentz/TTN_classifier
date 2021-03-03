@@ -10,7 +10,7 @@ The implementation code is contained in the following folders:
     - **TTN_MultiNode.py** has a layer structure were each input is connected to a weight tensor and then couples of input and weight tensors are contracted to an output tensor
         - !! This layer works and the model is able to make good prediction but it was not fully tested so some unpredicted errors may occurr
 - **utils** contains the functions used to preprocess the dataset, in particular the `preprocess` class can be used to perform all the preprocessing steps with specified parameters
-- the **Modelmaker.py** files contains the function needed to create a TTN classifier depending on a series of parameters including many optimizations like the kernel regularization and the batch normalization
+- the **Modelmaker.py** file contains the function needed to create a TTN classifier depending on a series of parameters, including many optimizations like the kernel regularization and the batch normalization
 
 ## Model Training
 
